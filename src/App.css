@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* .container {
+  margin-top: 2rem;
+  text-align: center;
+} */
+
+.theme-icon {
+  position: absolute;
+  top: 4%;
+  left: 50%;
+}
+
+@media screen and (max-width: 1240px) {
+  .theme-icon {
+    top: 3%;
+  }
+}

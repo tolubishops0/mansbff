@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.body h1 {
+  text-align: center;
+  padding: 13rem 0;
+}
+
+.body {
+  background-image: url(../Assets/poppyerror.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+}
